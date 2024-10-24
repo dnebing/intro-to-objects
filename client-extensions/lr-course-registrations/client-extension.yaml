@@ -1,0 +1,13 @@
+assemble:
+    - from: vite-build
+      into: static
+lr-course-registrations:
+    friendlyURLMapping: lr-course-registrations
+    htmlElementName: lr-course-registrations
+    instanceable: true
+    name: Liferay React Course Registrations
+    portletCategoryName: category.client-extensions
+    type: customElement
+    urls:
+        - assets/*.js
+    useESM: true
