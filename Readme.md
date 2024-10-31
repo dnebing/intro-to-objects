@@ -41,3 +41,6 @@ In the running environment, there are three users already created:
 
 Aside from the mentioned permissions, the student and teacher are regular users with no administrative permissions.
 
+## Workshop
+
+See the [Workshop.md](Workshop.md) for the steps to complete the workshop.
